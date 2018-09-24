@@ -7,7 +7,7 @@ Use the bundler gem ('bundle install') to install dependencies. Run tests with '
 # Description
 You’re building an interface for a bike shop. They offer a set of services and individual parts. Services require parts, and have an associated mechanic’s fee. For a set of orders, our system needs to sequentially update the inventory, calculate the price per order, and let us know if an order cannot be filled because of lacking inventory. Sales tax is 9%, and only applies to parts, not to service charges.
 
-Don’t worry about creating a frontend or database for this program - ruby classes are enough (hard code some values if you need to, but think about extensibility as if a database were in your future). Structure the data in a way you think makes sense - don't worry about parsing inputs exactly as they appear below. Tests for your code are a must. Use good object oriented principles. Document any assumptions that you make. You can fork this repository and use it as a template.
+Don’t worry about creating a frontend or database for this program - ruby classes are enough (hard code some values if you need to, but think about extensibility as if a database were in your future). Structure the data in a way you think makes sense - don't worry about parsing inputs exactly as they appear below. Tests for your code are a must. Use good object oriented principles. Document any assumptions that you make. Don't spend more than a few hours on this. You can fork this repository and use it as a template.
 
 ## Services Offered:
 Complete Overhaul ($50 service charge + price of parts)  

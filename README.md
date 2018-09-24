@@ -12,14 +12,14 @@ Don’t worry about creating a frontend or database for this program - ruby clas
 ## Services Offered:
 Complete Overhaul ($50 service charge + price of parts)  
 2 cables  
-2 pads  
+2 breakpads  
 2 wheels  
 2 tires  
 1 chain  
 
 Brake Overhaul ($20 service charge + price of parts)  
 2 cables  
-2 pads  
+2 breakpads  
 
 Wheel Overhaul ($30 service charge + price of parts)  
 2 wheels  
@@ -32,7 +32,7 @@ Drive Overhaul ($15 service charge + price of parts)
 ## Inventory:
 3 chains (15.99)  
 4 cables (2.99)  
-3 pads (2.99)  
+3 breakpads (2.99)  
 2 tires (35.99)  
 8 wheels (45.99)  
 
@@ -41,14 +41,14 @@ Drive Overhaul ($15 service charge + price of parts)
 
 Order 1:  
 Wheel Overhaul  
-2 pads  
+2 breakpads  
 
 Order 2:  
 Drive Overhaul  
 1 cable  
 
 Order 3:  
-2 pads  
+2 breakpads  
 
 # The system should return:
 
